@@ -1,0 +1,12 @@
+fake-useragent
+requests
+pandas
+numpy
+tqdm
+bs4
+urllib3
+nltk
+pymorphy2
+pymorphy2-dicts-ru
+transformers
+xgboost
